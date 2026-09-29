@@ -1,0 +1,6 @@
+{
+  "name": "Habigonj24 - হবিগঞ্জ২৪.কম নিউজ পোর্টাল",
+  "description": "হবিগঞ্জ জেলা ও সিলেটের শীর্ষ অনলাইন সংবাদ পোর্টাল - সত্য ও সাহসের সার্বক্ষণিক সঙ্গী। স্থানীয় সংবাদ, চা শিল্প, রাজনীতি, হাওর ও প্রবাসীদের সার্বক্ষণিক খবর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
